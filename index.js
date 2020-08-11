@@ -1,6 +1,6 @@
 // Write your code here
 
-let breakfast = class Breakfast {
+class Breakfast {
   constructor(food, drink) {
     breakfast.food = food;
     breakfast.drink = drink;
